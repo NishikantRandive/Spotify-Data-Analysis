@@ -14,3 +14,4 @@ Analyzing average streams per month reveals significant peaks during certain per
 
 Conclusion
 This Spotify Data Analysis offers valuable insights into music trends, highlighting the artists and tracks that have captured the hearts of millions. By understanding these patterns, artists and marketers can better strategize their releases and promotions to align with listener preferences and behaviors.
+![spotify1](https://github.com/user-attachments/assets/16ddcb75-a6bf-4851-b678-4503bdda488f)
